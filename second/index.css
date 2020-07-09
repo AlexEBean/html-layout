@@ -1,0 +1,68 @@
+.header {
+    width: 100%;
+    height: 25vh;
+    margin-bottom: 5vh;
+    border: solid black;
+  }
+  
+.square1 {
+    width: 5vh;
+    height: 16vh;
+    margin-top: 7vh;
+    margin-left: 1vh;
+    margin-bottom: 1vh;
+    background-color: blue;
+    display: inline-block;
+  }
+
+  .square2 {
+    width: 40%;
+    height: 90%;
+    margin-left: 5vh;
+    background-color: green;
+    display: inline-block;
+  }
+
+  .circle {
+    width: 150px;
+    height: 150px;
+    margin-left: 5vh;
+    border-radius: 50%;
+    background-color: aqua;
+    display: inline-block;
+  }
+
+.main-content {
+    width: auto;
+    height: 20vh;
+    margin-bottom: 5vh;
+    border: dotted black;
+}
+
+.square3 {
+    width: 90%;
+    height: 70%;
+    margin-top: 20px;
+    margin-left: 10vh;
+    background-color: tan;
+    display: inline-block;
+    box-shadow: 5px 5px 5px;
+}
+
+.footer {
+    width: 50%;
+    height: 30vh;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+    border:solid gray;
+    box-shadow: 5px 5px 5px;
+    
+}
+
+.footer h1 {
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+    padding-top: 15px;
+}
